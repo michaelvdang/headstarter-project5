@@ -1,0 +1,16 @@
+
+
+INSTALL:
+install python using miniconda, this will create a venv
+  conda create -n rag python=3.10.4
+  conda activate rag
+create a load.ipynb file
+select kernel with python version 3.10.4
+install python packages
+  pip install python-dotenv openai 
+  pip install "pinecone-client[grpc]"
+
+
+
+
+

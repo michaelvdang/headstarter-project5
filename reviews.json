@@ -1,0 +1,34 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Dr. Johnson explains complex concepts clearly and is always willing to help during office hours. Her enthusiasm for physics is contagious!"
+    },
+    {
+      "professor": "Prof. Michael Chang",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Prof. Chang's lectures are engaging and his programming assignments are challenging but rewarding. Highly recommended!"
+    },
+    {
+      "professor": "Dr. Sarah Martinez",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Dr. Martinez knows her subject well, but her lectures can be a bit dry. The lab sessions are interesting though."
+    },
+    {
+      "professor": "Prof. David Wilson",
+      "subject": "History",
+      "stars": 2,
+      "review": "Prof. Wilson seems knowledgeable but often goes off-topic during lectures. Grading can be inconsistent and feedback is minimal."
+    },
+    {
+      "professor": "Dr. Lisa Thompson",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Dr. Thompson is an outstanding professor! Her lectures are thought-provoking and she incorporates current research into the curriculum. A true inspiration!"
+    }
+  ]
+}
